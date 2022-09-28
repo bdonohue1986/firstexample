@@ -1,0 +1,14 @@
+C:\Users\Daddy Donohue\Desktop\repos\repos\SwitchEx\SwitchEx\obj\Debug\netcoreapp3.1\SwitchEx.csproj.AssemblyReference.cache
+C:\Users\Daddy Donohue\Desktop\repos\repos\SwitchEx\SwitchEx\obj\Debug\netcoreapp3.1\SwitchEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daddy Donohue\Desktop\repos\repos\SwitchEx\SwitchEx\obj\Debug\netcoreapp3.1\SwitchEx.AssemblyInfoInputs.cache
+C:\Users\Daddy Donohue\Desktop\repos\repos\SwitchEx\SwitchEx\obj\Debug\netcoreapp3.1\SwitchEx.AssemblyInfo.cs
+C:\Users\Daddy Donohue\Desktop\repos\repos\SwitchEx\SwitchEx\obj\Debug\netcoreapp3.1\SwitchEx.csproj.CoreCompileInputs.cache
+C:\Users\Daddy Donohue\Desktop\repos\repos\SwitchEx\SwitchEx\bin\Debug\netcoreapp3.1\SwitchEx.exe
+C:\Users\Daddy Donohue\Desktop\repos\repos\SwitchEx\SwitchEx\bin\Debug\netcoreapp3.1\SwitchEx.deps.json
+C:\Users\Daddy Donohue\Desktop\repos\repos\SwitchEx\SwitchEx\bin\Debug\netcoreapp3.1\SwitchEx.runtimeconfig.json
+C:\Users\Daddy Donohue\Desktop\repos\repos\SwitchEx\SwitchEx\bin\Debug\netcoreapp3.1\SwitchEx.runtimeconfig.dev.json
+C:\Users\Daddy Donohue\Desktop\repos\repos\SwitchEx\SwitchEx\bin\Debug\netcoreapp3.1\SwitchEx.dll
+C:\Users\Daddy Donohue\Desktop\repos\repos\SwitchEx\SwitchEx\bin\Debug\netcoreapp3.1\SwitchEx.pdb
+C:\Users\Daddy Donohue\Desktop\repos\repos\SwitchEx\SwitchEx\obj\Debug\netcoreapp3.1\SwitchEx.dll
+C:\Users\Daddy Donohue\Desktop\repos\repos\SwitchEx\SwitchEx\obj\Debug\netcoreapp3.1\SwitchEx.pdb
+C:\Users\Daddy Donohue\Desktop\repos\repos\SwitchEx\SwitchEx\obj\Debug\netcoreapp3.1\SwitchEx.genruntimeconfig.cache
